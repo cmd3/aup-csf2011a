@@ -1,0 +1,20 @@
+HTML head Tags
+
+1)The <title> tag defines the title of the document.
+	          defines a title in the browser toolbar.
+2)The <base> tag specifies a default address or a default target for all links on a page.
+3)The <link> tag defines the relationship between a document and an external resource.
+4)The <style> tag is used to define style information for an HTML document.
+5)The <meta> tag provides metadata about the HTML document.
+6)The <script> tag is used to define a client-side script, such as a JavaScript.
+
+HTML body Tags
+
+1)The <nav> tag defines a navigation.
+2)The <p> tag defines a paragraph.
+3)The <table> tag defines a table.
+4)The <ul> tag defines an unordered list.
+5)The <ol> tag defines an ordered list.
+6)The <br /> inserts a single line break.
+7)The <hr /> defines a horizontal line.
+
